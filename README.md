@@ -12,8 +12,16 @@ React · JavaScript · TypeScript · Node.js · Python · C++
 ### Currently
 
 🌱 Exploring Python & Django  
-🧠 800+ DSA problems solved  
 🚀 Building and experimenting with full-stack projects
+
+### 🧠 Coding Profiles
+
+<a href="https://leetcode.com/u/jyothsna_murahari/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/250v">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 ### Let's connect
 
